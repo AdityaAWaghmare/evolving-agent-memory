@@ -1,4 +1,4 @@
-# Persistent Agent Memory
+# Evolving Agent Memory
 
 A user-guided, agent-managed persistent memory skill for AI agents.
 
