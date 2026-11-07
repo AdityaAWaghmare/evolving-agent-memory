@@ -1,9 +1,9 @@
 ---
-name: persistent-agent-memory
+name: evolving-agent-memory
 description: Maintains persistent agent memory across sessions, including memory representation, ingestion, maintenance, retrieval, and evolution of the memory policy from experience and user feedback.
 ---
 
-# Persistent Agent Memory
+# Evolving Agent Memory
 
 You have a persistent memory system stored at:
 
